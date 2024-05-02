@@ -1,13 +1,32 @@
-![header](https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Sem1308's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
-<br/>
 
 <div align=center>
-    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsem1308&count_bg=%23333333&title_bg=%23FC4F59&icon=&icon_color=%23FC4F59&title=hits&edge_flat=false)](https://hits.seeyoufarm.com"/></a>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Sem1308's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180"/>
 </div>
 <br/>
 
-[![sem1308's github stats](https://github-readme-stats.vercel.app/api?username=sem1308&show_icons=true&theme=tokyonight)](https://github.com/sem1308/github-readme-stats)
+<div align=center>
+    <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsem1308&count_bg=%23333333&title_bg=%23FC4F59&icon=&icon_color=%23FC4F59&title=hits&edge_flat=false)](https://hits.seeyoufarm.com"/>
+    </a>
+</div>
 <br/>
+
+<div align=center>
+    <div>
+        <img src="https://github-readme-stats.vercel.app/api?username=sem1308&show_icons=true&theme=tokyonight"/>
+        <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sem1308"/>
+    </div>
+    <div>
+        <h3 align="center"> Protects </h3>
+        <p align="center">
+            <a href="https://github.com/orgs/Cinema-Seoul/repositories">Cinema Seoul (영화 예매 사이트 - BE)</a><br/>
+            <a href="https://github.com/sem1308/mystory-backend">Mystory (Tistory BE clone coding)</a><br/>            
+            <a href="https://github.com/orgs/uos-vision/repositories">Cotegory (코딩테스트 문제 카테코리 퀴즈 및 문제 추천 사이트 - AI)</a><br/>
+            <a href="https://github.com/sem1308/Matilda_Learning">Matilda (2D to 3D 변환 NFT 패션 플랫폼 - AI)</a><br/>            
+        </p>
+    </div>
+</div>
+<br/>
+
 
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <p align="center">
