@@ -16,7 +16,7 @@
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sem1308"/>
     </div>
     <div>
-        <h3 align="center"> Protects </h3>
+        <h3 align="center">📑 Protects 📑</h3>
         <p align="center">
             <a href="https://github.com/orgs/Cinema-Seoul/repositories">Cinema Seoul (영화 예매 사이트 - BE)</a><br/>
             <a href="https://github.com/sem1308/mystory-backend">Mystory (Tistory BE clone coding)</a><br/>            
