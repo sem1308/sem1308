@@ -1,6 +1,6 @@
 
 <div align=center>
-    <img src="https://capsule-render.vercel.app/api?type=rounded&color=timeGradient&text=Welcome%20to%20Sem1308's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180"/>
+    <img src="https://capsule-render.vercel.app/api?type=rounded&color=81F79F&text=Welcome%20to%20Sem1308's%20GitHub%20👋&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180"/>
 </div>
 <br/>
 
@@ -12,7 +12,7 @@
 
 <div align=center>
     <div>
-        <img src="https://github-readme-stats.vercel.app/api?username=sem1308&show_icons=true&theme=tokyonight"/>
+        <img src="https://github-readme-stats.vercel.app/api?username=sem1308&show_icons=true&theme=default"/>
         <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=sem1308"/>
     </div>
     <div>
