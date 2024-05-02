@@ -24,7 +24,7 @@
 
 <h3 align="center">📞 Contact 📞</h3>
 <p align="center">
-    <a href="hshhan0221@naver.com">
+    <a href="mailto:hshhan0221@naver.com">
         <img src="https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logoColor=black&logo=naver">
     </a>
 </p>
