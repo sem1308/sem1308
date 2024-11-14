@@ -18,6 +18,7 @@
     <div>
         <h3 align="center">📑 Protects 📑</h3>
         <p align="center">
+            <a href="https://github.com/E-Glu/glu">glu (어린이 문해력 진단 및 향상 서비스)</a><br/>
             <a href="https://github.com/orgs/Cinema-Seoul/repositories">Cinema Seoul (영화 예매 사이트 - BE)</a><br/>
             <a href="https://github.com/sem1308/mystory-backend">Mystory (Tistory BE clone coding)</a><br/>            
             <a href="https://github.com/orgs/uos-vision/repositories">Cotegory (코딩테스트 문제 카테코리 퀴즈 및 문제 추천 사이트 - AI)</a><br/>
